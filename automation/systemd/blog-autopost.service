@@ -1,0 +1,10 @@
+[Unit]
+Description=用 codex 自动撰写并发布一篇新的技术博客文章
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/home/fudongdong/blogs/automation/auto-write-post.sh
+# 单次最长运行 30 分钟，超时则判定失败
+TimeoutStartSec=1800

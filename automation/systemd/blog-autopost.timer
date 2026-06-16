@@ -1,0 +1,12 @@
+[Unit]
+Description=每天凌晨 3 点触发博客自动写作任务
+
+[Timer]
+OnCalendar=*-*-* 03:00:00
+# 错过了（如机器关机）则开机后补跑一次
+Persistent=true
+# 轻微随机延迟，避免整点峰值
+RandomizedDelaySec=180
+
+[Install]
+WantedBy=timers.target
