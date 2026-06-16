@@ -11,7 +11,7 @@ categories:
   - 建站
 ---
 
-![网页托管平台怎么选](/blogs/images/web-hosting/cover.jpeg)
+![网页托管平台怎么选](/images/web-hosting/cover.jpeg)
 
 想把网页放到网上，第一步往往就卡在「用哪个托管平台」。其实在选之前，先分清楚自己属于哪一类需求，答案就清楚了一大半：
 
@@ -24,7 +24,7 @@ categories:
 
 ## 一、整站托管平台对比
 
-![主流网页托管平台](/blogs/images/web-hosting/platforms.jpeg)
+![主流网页托管平台](/images/web-hosting/platforms.jpeg)
 
 这几家都是「把代码仓库 / 静态文件部署成一个完整网站」的平台，适合博客、文档站、企业官网、前端项目等。
 
@@ -48,7 +48,7 @@ categories:
 
 ## 二、最省事的单页方案：图床小镇 HTML 托管
 
-![图床小镇 HTML 托管：上传一个文件就出链接](/blogs/images/web-hosting/html-hosting.jpeg)
+![图床小镇 HTML 托管：上传一个文件就出链接](/images/web-hosting/html-hosting.jpeg)
 
 如果你手上只是**一个写好的 HTML 文件**——比如用 Claude、ChatGPT、Cursor 生成的活动页 / 落地页 / 简历页，或者一份要发给客户的演示稿——那最快的办法不是去配一套部署流程，而是直接用 [图床小镇](https://imgbed.cn/) 的 [HTML 托管](https://home.imgbed.cn/html-hosting)。
 

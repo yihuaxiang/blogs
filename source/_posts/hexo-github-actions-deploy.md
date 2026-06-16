@@ -10,7 +10,7 @@ categories:
   - 建站
 ---
 
-![用 GitHub Actions 自动部署 Hexo 博客](/blogs/images/hexo-github-actions-deploy/cover.jpeg)
+![用 GitHub Actions 自动部署 Hexo 博客](/images/hexo-github-actions-deploy/cover.jpeg)
 
 搭一个 Hexo 博客不难，难的是「每次写完还要本地 `hexo generate` 再手动推一堆静态文件」。把构建交给 GitHub Actions 后，工作流就变成：**写文章 → `git push` → 几十秒后自动上线**，本地连 `node_modules` 都不用装。这篇记录一套能直接抄的配置，以及我自己踩到的几个坑。
 

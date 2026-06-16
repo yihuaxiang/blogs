@@ -10,7 +10,7 @@ categories:
   - 工具
 ---
 
-![让终端更顺手的几个命令行工具](/blogs/images/cli-productivity-tools/cover.jpeg)
+![让终端更顺手的几个命令行工具](/images/cli-productivity-tools/cover.jpeg)
 
 在终端里待久了会发现：真正拉开效率差距的，往往不是什么高深技巧，而是有没有用上几款更现代的小工具。它们大多是对 `grep`、`find`、`cat`、`cd` 这些老命令的「平替升级」，装上之后基本回不去了。下面这几个是我天天在用的。
 

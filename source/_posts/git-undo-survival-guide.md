@@ -9,7 +9,7 @@ categories:
   - 工具
 ---
 
-![Git 后悔药救命指南](/blogs/images/git-undo-survival-guide/cover.jpeg)
+![Git 后悔药救命指南](/images/git-undo-survival-guide/cover.jpeg)
 
 用 Git 最慌的时刻，往往不是写代码，而是「我刚才那一下是不是把东西搞没了」。好消息是：**只要你曾经 `git add` 或 `git commit` 过，几乎没有真正找不回来的东西。** 这篇按「我闯了什么祸」来组织，遇到对应场景直接抄命令。
 
